@@ -1,0 +1,31 @@
+h1{
+    color:white;
+    background-color:black ;
+    height: 60px;
+    width: 100%;
+    font-style: italic;
+    font-size: 30px;
+}
+body{
+    background-color:azure
+}
+dd{
+    color:blue;
+    font-size:90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    color: black;
+    font-size: 60px;
+}
+h3{
+    color: brown;
+}
+a{
+    text-decoration: none;
+    color: black;  
+}
+
+
